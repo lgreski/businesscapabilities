@@ -7,5 +7,6 @@ The Business Capabilities repository includes content about business capability 
 Articles on architecture topics that are still accessible at the sources originally published on the internet include:
 
 * [Getting Beyond Ourselves:](https://bit.ly/3yPFWbI) Describes a results-oriented approach to the practice of architecture
-* [Solution Architecture - A Structural Approach to Value:](https://bit.ly/3afG7mQ) Outlines four ways that effective solution architecture generates measurable value 
+* [Solution Architecture - A Structural Approach to Value:](https://bit.ly/3afG7mQ) Outlines four ways that effective solution architecture generates measurable value
 * [What is Good Architecture?](https://bit.ly/3z2L7DA) Discusses four characteristics that define "good architecture"
+* [Organizing Around Business Capabilities](https://bit.ly/47JrPnt) Explains four types of benefits organizations derive from organizing around capabilities, and describes an incremental process for establishing independent capabilities that can be managed as assets.  
